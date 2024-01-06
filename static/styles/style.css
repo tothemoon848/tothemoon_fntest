@@ -12,7 +12,7 @@
   display: -ms-grid;
   display: grid;
   place-items: center;
-  background: linear-gradient(45deg, rgba(0, 204, 255, 0.726), rgba(0, 110, 255, 0.836)), url(~/Bg.jpg);
+  background: linear-gradient(45deg, rgba(0, 204, 255, 0.726), rgba(0, 110, 255, 0.836)), url(static/styles/img/Bg.jpg);
   background-position: center;
   background-size: 100% 100%;
   background-attachment: fixed;
